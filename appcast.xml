@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>王子恒的排版工具</title>
+    <language>zh-CN</language>
+    <!-- 由 scripts/publish-update.sh 自动维护；尚无正式更新条目 -->
+  </channel>
+</rss>
