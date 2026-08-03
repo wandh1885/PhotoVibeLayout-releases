@@ -3,6 +3,20 @@
   <channel>
     <title>王子恒的排版工具</title>
     <language>zh-CN</language>
+    <item>
+      <title>Version 1.08</title>
+      <description><![CDATA[接入 Sparkle 在线升级：菜单/关于弹层可检查更新，后续版本可一键升级。]]></description>
+      <pubDate>Mon, 03 Aug 2026 16:08:20 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.08</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/wandh1885/PhotoVibeLayout-releases/releases/download/v1.08/PhotoVibeLayout-1.08-home-macOS.zip"
+        length="8110990"
+        type="application/octet-stream"
+        sparkle:edSignature="a3yQsBre2Q5LOWiG69N0dlLVI+tvwYcbnUBWb8jwE5juiR0rIJNTylIAGuJ4KYrj6JvwjzHNnuIMxjcZMOMpDw==" />
+    </item>
+
     <!-- 由 scripts/publish-update.sh 自动维护；尚无正式更新条目 -->
   </channel>
 </rss>
