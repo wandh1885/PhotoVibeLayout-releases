@@ -4,6 +4,26 @@
     <title>王子恒的排版工具</title>
     <language>zh-CN</language>
     <item>
+      <title>Version 1.09</title>
+      <description><![CDATA[1.09 更新内容：
+
+• 竖拼图横图底图可左右平移；保存暂存后预览不再闪一下错位
+• 数字键 2：切入二连图 / 切换左右·上下排列；比例快捷键 F1–F4（1:1 / 4:3 / 3:2 / 16:9）
+• 素材选中后可一键转黑白（预览与成片同步）
+• 回编暂存后可重新拖拽换序；排版侧栏切换动画统一淡入淡出
+• 导出页：←→ 切换图库选中；图库缩略图可放大；Z/X 缩放预览框（仅阅读，不影响成片）]]></description>
+      <pubDate>Fri, 07 Aug 2026 18:40:00 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.09</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/wandh1885/PhotoVibeLayout-releases/releases/download/v1.09/PhotoVibeLayout-1.09-home-macOS.zip"
+        length="8185012"
+        type="application/octet-stream"
+        sparkle:edSignature="yL+Hclmy9MC+1Hv7b1ogT8S4waYkQd7pJGyWnF1Pc7AqlV0n3LPCbhhCteyTm09em6WWXiQIUQLgyJkKGGCSAQ==" />
+    </item>
+
+    <item>
       <title>Version 1.08</title>
       <description><![CDATA[接入 Sparkle 在线升级：菜单/关于弹层可检查更新，后续版本可一键升级。]]></description>
       <pubDate>Mon, 03 Aug 2026 16:08:20 +0000</pubDate>
