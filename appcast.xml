@@ -4,6 +4,20 @@
     <title>王子恒的排版工具</title>
     <language>zh-CN</language>
     <item>
+      <title>Version 1.10</title>
+      <description><![CDATA[新增四拼图；导出预览区与图库展开体验优化；全应用字体字号与动效统一；素材黑白等细节改进。]]></description>
+      <pubDate>Sat, 08 Aug 2026 10:30:28 +0000</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/wandh1885/PhotoVibeLayout-releases/releases/download/v1.10/PhotoVibeLayout-1.10-home-macOS.zip"
+        length="8233226"
+        type="application/octet-stream"
+        sparkle:edSignature="YjRtDwbjuJXDijrAadNBmVl0hZr15W3i55/STQo+57PkbeVv3TU9rBfLJfDoYbgu8W5QQR67UYbDZK/hS4TJAg==" />
+    </item>
+
+    <item>
       <title>Version 1.09</title>
       <description><![CDATA[1.09 更新内容：
 
