@@ -4,6 +4,25 @@
     <title>王子恒的排版工具</title>
     <language>zh-CN</language>
     <item>
+      <title>Version 1.11</title>
+      <description><![CDATA[本版更新：
+• 排版满员后改为「指定替换」：点新图后选择要换掉的槽位，不再静默挤掉旧图；替换后可撤销（⌘Z）
+• 胶片轴缩略图边缘点击更稳，不易点空
+• 导出未完成时关闭项目会提示，并在首页显示后台导出进度
+• 关闭项目落盘更快（避免无谓全量重压暂存图）
+• 「同步 LOGO / 清除勾选」改为明确按钮样式]]></description>
+      <pubDate>Sun, 09 Aug 2026 14:59:34 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/wandh1885/PhotoVibeLayout-releases/releases/download/v1.11/PhotoVibeLayout-1.11-home-macOS.zip"
+        length="8347084"
+        type="application/octet-stream"
+        sparkle:edSignature="yVnfB7kP4xiFw5dSziQNH0Z93p8cgE1i0rsMAkFLJ2zaeD2loFgizYNEVdnTIrZNKLioUZV69vwW68U5xbLDAg==" />
+    </item>
+
+    <item>
       <title>Version 1.10</title>
       <description><![CDATA[新增四拼图；导出预览区与图库展开体验优化；全应用字体字号与动效统一；素材黑白等细节改进。]]></description>
       <pubDate>Sat, 08 Aug 2026 10:30:28 +0000</pubDate>
