@@ -4,6 +4,22 @@
     <title>王子恒的排版工具</title>
     <language>zh-CN</language>
     <item>
+      <title>Version 1.12</title>
+      <description><![CDATA[本版更新：
+• 浏览暂存盘不再无故另存「临时」图：没改过就不存
+• 相同内容已有临时条时不再重复保存，只把那条移到最后]]></description>
+      <pubDate>Mon, 17 Aug 2026 16:33:21 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/wandh1885/PhotoVibeLayout-releases/releases/download/v1.12/PhotoVibeLayout-1.12-home-macOS.zip"
+        length="8424007"
+        type="application/octet-stream"
+        sparkle:edSignature="Dkal6YQwoyQUEaV70AYyllqAyxfYFvGYhBysnsG0kjx9r5VolMLdkmEJEBKvizF3cTJWvNtfTGPzhcUNdxZoDw==" />
+    </item>
+
+    <item>
       <title>Version 1.11</title>
       <description><![CDATA[本版更新：
 • 排版满员后改为「指定替换」：点新图后选择要换掉的槽位，不再静默挤掉旧图；替换后可撤销（⌘Z）
