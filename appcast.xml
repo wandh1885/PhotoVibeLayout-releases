@@ -4,6 +4,28 @@
     <title>王子恒的排版工具</title>
     <language>zh-CN</language>
     <item>
+      <title>Version 1.13</title>
+      <description><![CDATA[本版更新：
+• 浏览暂存盘时：没有改动不再自动存「临时」条；内容相同的临时条只保留一份并移到末尾
+• 自由拼图：底图、Logo、导出裁切与其它排版对齐，所见即所得
+• 单张拼图去掉无意义的「图片素材间距」
+• 系统设置：默认导出像素、默认项目名称前缀；导出参数可「默认此值」
+• 导出文件名增加「单张」点选（含 -single）
+• 图库可一键全选横图 / 竖图
+• 满员替换提示改为浮层，不挤布局
+• 素材黑白编辑会正确出现在暂存预览]]></description>
+      <pubDate>Mon, 24 Aug 2026 15:58:12 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/wandh1885/PhotoVibeLayout-releases/releases/download/v1.13/PhotoVibeLayout-1.13-home-macOS.zip"
+        length="8424007"
+        type="application/octet-stream"
+        sparkle:edSignature="X/THVrc4hUXhelwy009yePqQ4WJgSb+pE+DBQ4Tl3I8bT4iA0qIPTvKyRpY2jphEM4Ja6dF3EP33Xr7ivCTQAQ==" />
+    </item>
+
+    <item>
       <title>Version 1.12</title>
       <description><![CDATA[本版更新：
 • 浏览暂存盘不再无故另存「临时」图：没改过就不存
