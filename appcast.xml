@@ -4,6 +4,22 @@
     <title>王子恒的排版工具</title>
     <language>zh-CN</language>
     <item>
+      <title>Version 1.14</title>
+      <description><![CDATA[本版更新：
+• 修复上传底图后偶发无法点击胶片轴素材的问题（底图不可见的溢出区域不再拦截点击）
+• 系统文件选择面板改为中文（导入 / 底图 / 水印 / 导出文件夹等）]]></description>
+      <pubDate>Fri, 04 Sep 2026 17:51:54 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/wandh1885/PhotoVibeLayout-releases/releases/download/v1.14/PhotoVibeLayout-1.14-home-macOS.zip"
+        length="8425100"
+        type="application/octet-stream"
+        sparkle:edSignature="77/b4i+1GJCFeekuWRgRhgTUkJefvBvDHUZ2cUuOZdnYgfWA2O1vEwYv9TK2NCgFGnFA3viD2u80643UpddoCA==" />
+    </item>
+
+    <item>
       <title>Version 1.13</title>
       <description><![CDATA[本版更新：
 • 浏览暂存盘时：没有改动不再自动存「临时」条；内容相同的临时条只保留一份并移到末尾
